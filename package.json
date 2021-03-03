@@ -70,7 +70,7 @@
     "passport-twitter": "~1.0.4",
     "peer": "^0.2.10",
     "pm2": "~3.5.0",
-    "pug": "~2.0.3",
+    "pug": "~3.0.1",
     "re-resizable": "^5.0.1",
     "react-icons": "^3.7.0",
     "resize-base64": "^1.0.12",
